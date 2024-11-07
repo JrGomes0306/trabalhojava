@@ -1,7 +1,7 @@
 package trabalhojavaivan.escola;
 
 public class Aluno {
-    package com.example.educacional.model;
+    package com.escola.educacional.model;
 
 import javax.persistence.*;
 

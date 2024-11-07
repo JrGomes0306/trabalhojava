@@ -1,7 +1,7 @@
-package com.example.educacional.controller;
+package com.escola.educacional.controller;
 
-import com.example.educacional.model.Aluno;
-import com.example.educacional.repository.AlunoRepository;
+import com.escola.educacional.model.Aluno;
+import com.escola.educacional.repository.AlunoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
